@@ -2,7 +2,8 @@
 ### 👀 Passionate Developer | Learning & Building  
 
 💻 **Currently Learning:**  
-- Java ☕  
+- Java ☕
+- Go  
 - Python 🐍  
 - Spring Boot 🚀  
 - JPA (Java Persistence API) 🗄️  
@@ -18,7 +19,8 @@
 - Open-source contributions  
 
 📫 **How to Reach Me:**  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: www.linkedin.com/in/TechYash-bit
+  
 - Email: [harneyash7418@gmail.com](#)  
 
 ⚡ **Fun Fact:**  
